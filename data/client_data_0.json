@@ -1,0 +1,22 @@
+  {
+    "Client_ID": "6052.1621849374",
+    "visit_number": 1,
+    "utm_source": "other",
+    "utm_medium": "other",
+    "utm_campaign": "other",
+    "utm_adcontent": "other",
+    "device_category": "mobile",
+    "device_brand": "other",
+    "device_browser_short": "other",
+    "diagonal": 600,
+    "geo_city": "Moscow",
+    "time_action": 12,
+    "weekday": "0",
+    "month": "7"
+   }
+
+  #result
+  {
+    "Client_ID": "6052.1621849374",
+    "Result": 0.0
+  }

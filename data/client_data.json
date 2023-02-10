@@ -1,0 +1,21 @@
+  {
+    "Client_ID": "6052.1621849375",
+    "visit_number": 2,
+    "utm_source": "other",
+    "utm_medium": "other",
+    "utm_campaign": "other",
+    "utm_adcontent": "other",
+    "device_category": "mobile",
+    "device_brand": "Apple",
+    "device_browser_short": "Safari",
+    "diagonal": 1000,
+    "geo_city": "Moscow",
+    "time_action": 12,
+    "weekday": "2",
+    "month": "6"
+   }
+ #result
+  {
+    "Client_ID": "6052.1621849375",
+    "Result": 1.0
+  }

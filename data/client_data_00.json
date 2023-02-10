@@ -1,0 +1,22 @@
+  {
+    "Client_ID": "6052.1621849373",
+    "visit_number": 1,
+    "utm_source": "RmEBuqrriAfAVsLQQmhk",
+    "utm_medium": "other",
+    "utm_campaign": "other",
+    "utm_adcontent": "JNHcPlZPxEMWDnRiyoBf",
+    "device_category": "mobile",
+    "device_brand": "Xiaomi",
+    "device_browser_short": "Chrome",
+    "diagonal": 600,
+    "geo_city": "Yaroslavl",
+    "time_action": 23,
+    "weekday": "6",
+    "month": "12"
+   }
+
+  #result
+  {
+    "Client_ID": "6052.1621849373",
+    "Result": 0.0
+  }
